@@ -6,6 +6,5 @@ General portfolio of what I've done throughout my Blender journey!
 <br/>
 ## 1st Blender Donut!
 - My day 1 of learning blender, the classic donut render! <br/>
-https://github.com/user-attachments/assets/bdae921d-bd5f-4135-b5f7-35195a65946c
-<br/>
-(Render Image)[https://github.com/user-attachments/assets/9b47e999-60ad-485f-9e05-721ac41b1dff]
+*Animation:* https://github.com/user-attachments/assets/bdae921d-bd5f-4135-b5f7-35195a65946c <br/>
+*Image:* https://github.com/user-attachments/assets/9b47e999-60ad-485f-9e05-721ac41b1dff
